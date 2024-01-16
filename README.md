@@ -1,4 +1,4 @@
-# DocCache FAQ Accelerator
+# LLM CacheFAQ Accelerator
 
 ## Why
 
