@@ -2,7 +2,7 @@
 
 ## Why
 
-Streamline response efficiency by harnessing the power of Large Language Models (LLMs) with the DocCache FAQ Accelerator. 
+Enhance response efficiency with the LLM CacheFAQ Accelerator, leveraging the capabilities of Large Language Models (LLMs).
 
 The primary objective is to significantly reduce response times for user queries related to a specific document. Traditional real-time question-response approaches can be time-consuming and resource-intensive.
 
@@ -18,4 +18,4 @@ By dynamically generating a comprehensive Frequently Asked Questions (FAQ) secti
 
 **Overall Impact:**
 
-The DocCache FAQ Accelerator redefines user query handling, delivering a streamlined and resource-efficient solution for diverse and dynamic question-response scenarios.
+The LLM CacheFAQ Accelerator redefines user query handling, delivering a streamlined and resource-efficient solution for diverse and dynamic question-response scenarios.
