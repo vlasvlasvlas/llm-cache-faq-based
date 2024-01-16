@@ -2,7 +2,11 @@
 
 ## Why
 
-This repository addresses the need for a swift and efficient response system by harnessing the capabilities of Large Language Models (LLMs). The primary goal is to significantly reduce response times when users pose inquiries related to a specific document. Traditional approaches to answering dynamic questions in real-time can be time-consuming and resource-intensive. By generating a comprehensive Frequently Asked Questions (FAQ) section based on the document in a JSON format, this project establishes a knowledge cache.
+This repository addresses the need for a swift and efficient response system by harnessing the capabilities of Large Language Models (LLMs). 
+
+The primary goal is to significantly reduce response times when users pose inquiries related to a specific document. Traditional approaches to answering dynamic questions in real-time can be time-consuming and resource-intensive. 
+
+By generating a comprehensive Frequently Asked Questions (FAQ) section based on the document in a JSON format, this project establishes a knowledge cache.
 
 **Key Benefits:**
 
