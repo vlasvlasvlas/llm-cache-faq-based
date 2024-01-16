@@ -2,11 +2,11 @@
 
 ## Why
 
-Enhance response efficiency with the LLM CacheFAQ Accelerator, leveraging the capabilities of Large Language Models (LLMs).
+Elevate response efficiency with the LLM CacheFAQ Accelerator, leveraging the capabilities of Large Language Models (LLMs).
 
 The primary objective is to significantly reduce response times for user queries related to a specific document. Traditional real-time question-response approaches can be time-consuming and resource-intensive.
 
-By dynamically generating a comprehensive Frequently Asked Questions (FAQ) section from the document in JSON format, this project establishes an intelligent knowledge cache.
+This project establishes an intelligent knowledge cache by pregenerating a comprehensive Frequently Asked Questions (FAQ) section from the document in JSON format.
 
 **Key Features:**
 
