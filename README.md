@@ -1,4 +1,3 @@
-```markdown
 # DocCache FAQ Accelerator
 
 ## Why
@@ -20,4 +19,3 @@ By dynamically generating a comprehensive Frequently Asked Questions (FAQ) secti
 **Overall Impact:**
 
 The DocCache FAQ Accelerator redefines user query handling, delivering a streamlined and resource-efficient solution for diverse and dynamic question-response scenarios.
-```
