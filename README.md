@@ -16,3 +16,7 @@ The primary goal is to significantly reduce response times for user queries rela
 
 - **Dynamic Knowledge Base:** The FAQ dynamically evolves with document changes, ensuring a current and accurate knowledge base.
 
+**Also see--Inspirations**
+
+- https://gptcache.readthedocs.io/en/latest/usage.html
+
